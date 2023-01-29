@@ -31,4 +31,4 @@ AverageCalcualtor is a simple python script that calculates the averages of a se
 
 ## License
 
-All Rights Reserved unless otherwise explicitly stated.
+MIT License 
